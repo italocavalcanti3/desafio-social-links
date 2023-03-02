@@ -5,10 +5,12 @@
 }
 
 body, input, select, textarea {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 :root {
   --body-bg-color: #FAF7FD;
   --purple: #BB99DD;
 }
+
+/*# sourceMappingURL=syle.css.map */
