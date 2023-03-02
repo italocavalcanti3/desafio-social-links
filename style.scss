@@ -20,6 +20,7 @@
   --23px: 1.4375rem;
   --24px: 1.5rem;
   --30px: 1.875rem;
+  --38px: 2.375rem;
   --40px: 2.5rem;
   --49px: 3.0625rem;
   --60px: 3.75rem;
@@ -136,6 +137,7 @@ main {
   .social-media {
     display: flex;
     gap: 2rem;
+    margin-top: var(--38px);
 
     button {
       cursor: pointer;
